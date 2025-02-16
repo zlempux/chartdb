@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.8.1](https://github.com/chartdb/chartdb/compare/v1.8.0...v1.8.1) (2025-02-16)
+
+
+### Bug Fixes
+
+* **empty-state:** show diff buttons on import-dbml when triggered by empty ([#574](https://github.com/chartdb/chartdb/issues/574)) ([4834247](https://github.com/chartdb/chartdb/commit/48342471ac231922f2ca4455b74a9879127a54f1))
+* **i18n:** add [FR] translation ([#579](https://github.com/chartdb/chartdb/issues/579)) ([ab89bad](https://github.com/chartdb/chartdb/commit/ab89bad6d544ba4c339a3360eeec7d29e5579511))
+* **sqlite-import:** import nuallable columns correctly + add json type ([#571](https://github.com/chartdb/chartdb/issues/571)) ([deb2184](https://github.com/chartdb/chartdb/commit/deb218423f77f0c0945a93005696456f62b00ce3))
+
 ## [1.8.0](https://github.com/chartdb/chartdb/compare/v1.7.0...v1.8.0) (2025-02-13)
 
 
